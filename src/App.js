@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Proyecto Altezza Lucas Martín Gil Com.24925
         </a>
       </header>
     </div>
